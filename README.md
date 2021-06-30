@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thaycn
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 thaycn/thaycn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,16 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<h1>Languages</h1>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#/C#.png.png"></code>
-
-<br>
-<br>
-<br>
-
+<h1>Hello World, I'm Tai!</h1>
 <h1>Social Media</h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/tainara-nogueira-bbb95b136/">
@@ -36,3 +26,21 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" href="https://www.facebook.com/tainara.nogueira.9">
   <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />
 </a>
+
+<br>
+<br>
+<br>
+
+- 🌱 <h1>I’m currently learning</h1>
+
+<br>
+<br>
+<br>
+
+<h1>Languages</h1>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#/C#.png.png"></code>
+
+
