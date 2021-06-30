@@ -9,9 +9,12 @@ thaycn/thaycn is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<br>
+<br>
+<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/tainara-nogueira-bbb95b136/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />
 </a>
 
 <a target="_blank" href="mailto:thay.cnogueira@gmail.com">
