@@ -52,8 +52,8 @@
   <p float="left">
   <img src="https://media.giphy.com/media/l1BgSbJuPVcLJClmo/giphy.gif" width="17%"/>
   <img src="https://media.giphy.com/media/L2lkyiSIYFq6f4gAqq/giphy.gif" width="17%"/> 
-  <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="17%"/>
-  <img src="https://media.giphy.com/media/1zJExxElqvk2l8ott3/giphy.gif" width="17%" /> 
+  <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="17%" hspace="20"/>
+  <img src="https://media.giphy.com/media/1zJExxElqvk2l8ott3/giphy.gif" width="17%" hspace="40"/> 
   <img src="https://media.giphy.com/media/3otPoo8NDLOmzvTJF6/giphy.gif" width="17%" /> 
 </p>
 <br>
