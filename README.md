@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<h2>Hello World, I'm Tai!</h2>
-Social Media
-
+<h4>Hello World, I'm Tai!</h4>
 <a target="_blank" href="https://www.linkedin.com/in/tainara-nogueira-bbb95b136/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://danielscott.com.br/wp-content/uploads/2015/12/linkedin-icon.png" />
 </a>
