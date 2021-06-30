@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a target="_blank" href="https://www.facebook.com/tainara.nogueira.9">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />
 </a>
