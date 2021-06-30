@@ -2,7 +2,7 @@
 
 <!--- Social media --->
 <a target="_blank" href="https://www.linkedin.com/in/tainara-nogueira-bbb95b136/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://danielscott.com.br/wp-content/uploads/2015/12/linkedin-icon.png" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://www.partnersrl.com.br/assets/images/figures/logoin.png" />
 </a>
 <a target="_blank" href="mailto:thay.cnogueira@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://icons.iconarchive.com/icons/martz90/circle/256/gmail-icon.png" />
@@ -12,25 +12,40 @@
 </a>
 <br><hr>
 
-<p><font size="5">
-• From Brazil 💚<br>
-• Studying at Fatec/Sorocaba<br>
-• Aim to become a Front-end Developer<br>
-• 25 years old 👶🏻
-</font></p>
-<br><hr>
+<h4>About me 🤟</h4>
+
+<p>
+<ul>
+<li>From Brazil 💚</li>
+<li>Studying at Fatec/Sorocaba</li>
+<li>Aim to become a Front-end Developer</li>
+<li>25 years old 👶🏻</li>
+</ul>
+</p>
 
 
-<h4>I’m currently learning 📕</h4>
-<br>
+
+<h4>Currently learning 📕</h4>
+
+- [x] HTML5
+- [ ] CSS
+- [ ] French
 
 <h4>Languages 💻<h4>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#/C#.png.png"></code>
-<br>
+
+  <img align="left" alt="Html" width="22px" src="https://terminalroot.com.br/assets/img/html/html5.png"/>
   
+  <img align="left" alt="CSS" width="22px" src="https://terminalroot.com.br/assets/img/css/css.png"/>
+
+  <img align="left" alt="Java" width="22px" src="https://devkico.itexto.com.br/wp-content/uploads/2017/08/logotipo.png"/>
+  
+  <img align="left" alt="C" width="22px" src="https://beprogrammer.files.wordpress.com/2016/03/dev_c___by_capristo.png"/>
+
+  <img align="left" alt="C#" width="22px" src="https://dannymcgee.gallerycdn.vsassets.io/extensions/dannymcgee/csharp-grammar-extended/1.1.1/1576121453694/Microsoft.VisualStudio.Services.Icons.Default"/>
+
+<br>
+<br>
 
 <h4>I’m interested in 👀</h4>
 <br>
