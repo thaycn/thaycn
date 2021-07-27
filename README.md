@@ -46,7 +46,7 @@
 
 <br>
 <br>
-<h4>Languages 📕</h4>
+<h4>Languages 💬</h4>
 
 - English - C1
 - French - A1
