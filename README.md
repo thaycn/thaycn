@@ -31,7 +31,7 @@
 - [ ] CSS
 - [ ] French
 
-<h4>Languages 💻<h4>
+<h4>Programming Languages 💻<h4>
 
 
   <img align="left" alt="Html" width="22px" src="https://terminalroot.com.br/assets/img/html/html5.png"/>
@@ -46,6 +46,10 @@
 
 <br>
 <br>
+<h4>Languages 📕</h4>
+
+- English - C1
+- French - A1
 
 <h4>I’m interested in 👀</h4>
 <br>
