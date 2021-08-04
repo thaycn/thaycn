@@ -28,7 +28,7 @@
 <h4>Currently learning 📕</h4>
 
 - [x] HTML5
-- [ ] CSS
+- [x] CSS
 - [ ] French
 
 <h4>Programming Languages 💻<h4>
