@@ -18,7 +18,7 @@
 <ul>
 <li>From Brazil 💚</li>
 <li>Studying at Fatec/Sorocaba</li>
-<li>Aim to become a Front-end Developer</li>
+<li>Future Front-end Developer</li>
 <li>25 years old 👶🏻</li>
 </ul>
 </p>
